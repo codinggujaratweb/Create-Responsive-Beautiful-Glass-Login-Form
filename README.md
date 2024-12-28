@@ -1,5 +1,5 @@
 # Create-Responsive-Beautiful-Glass-Login-Form
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Beautiful-Glass-Login-Form/)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-Beautiful-Glass-Login-Form/)
 ### Responsive Login Form
 
 - Responsive Login Form Using HTML CSS & JavaScript
